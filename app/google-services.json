@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "477944894908",
+    "project_id": "kamrul78locationsharingapp",
+    "storage_bucket": "kamrul78locationsharingapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477944894908:android:e41930154675a9717e07b9",
+        "android_client_info": {
+          "package_name": "com.example.kamrul_78_locationsharingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXAvrt7M4HoWzKHaaqYpQVVhmwWtwCo-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
